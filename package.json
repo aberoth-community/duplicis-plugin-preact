@@ -23,10 +23,12 @@
     "lint": "pnpm --workspace-root run lint",
     "lint:tsc": "tsc"
   },
+  "dependencies": {
+    "preact": "^10.28.3",
+    "svelte": "^5.53.7"
+  },
   "peerDependencies": {
     "@duplicis/config": "workspace:*",
-    "@duplicis/types": "workspace:*",
-    "preact": "^10.28.3",
-    "svelte": "5.51.2"
+    "@duplicis/types": "workspace:*"
   }
 }
