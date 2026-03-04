@@ -1,0 +1,7 @@
+{
+  "$schema": "https://typedoc.org/schema.json",
+  "entryPoints": ["src/index.ts"],
+  "name": "@duplicis/plugin-preact",
+  "includeVersion": true,
+  "readme": "./README.md"
+}
