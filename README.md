@@ -1,5 +1,10 @@
 # @duplicis/preact-plugin
 
+<p align="center">
+  <img alt="Duplicis logo" src="https://duplicis.app/logo.svg" width="33%" />
+</p>
+<p align="center">Duplicis preact plugin.</p>
+
 Preact framework plugin for Duplicis!
 
 Reasonably simple example for creating your own FrameworkPlugins.
